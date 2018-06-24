@@ -1,0 +1,128 @@
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\obj\Debug\03_LowLevelHttpProgramming.csprojResolveAssemblyReference.cache
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\03_LowLevelHttpProgramming.dll
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\03_LowLevelHttpProgramming.pdb
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\Antlr3.Runtime.dll
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\EntityFramework.dll
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\Microsoft.Web.Infrastructure.dll
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\Newtonsoft.Json.dll
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Net.Http.Formatting.dll
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Helpers.dll
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Http.dll
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Http.WebHost.dll
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Mvc.dll
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Optimization.dll
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Providers.dll
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Razor.dll
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.WebPages.Deployment.dll
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.WebPages.dll
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.WebPages.Razor.dll
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\WebGrease.dll
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\EntityFramework.xml
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\Newtonsoft.Json.xml
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Net.Http.Formatting.xml
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Helpers.xml
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Http.xml
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Http.WebHost.xml
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Mvc.xml
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Razor.xml
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.WebPages.xml
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.WebPages.Deployment.xml
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.WebPages.Razor.xml
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\obj\Debug\03_LowLevelHttpProgramming.dll
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\obj\Debug\03_LowLevelHttpProgramming.pdb
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\03_LowLevelHttpProgramming.dll
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\03_LowLevelHttpProgramming.pdb
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\Antlr3.Runtime.dll
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\EntityFramework.dll
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\Microsoft.Web.Infrastructure.dll
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\Newtonsoft.Json.dll
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Net.Http.Formatting.dll
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Helpers.dll
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Http.dll
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Http.WebHost.dll
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Mvc.dll
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Optimization.dll
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Providers.dll
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Razor.dll
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.WebPages.Deployment.dll
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.WebPages.dll
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.WebPages.Razor.dll
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\WebGrease.dll
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\EntityFramework.xml
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\Newtonsoft.Json.xml
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Net.Http.Formatting.xml
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Helpers.xml
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Http.xml
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Http.WebHost.xml
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Mvc.xml
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Razor.xml
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.WebPages.xml
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.WebPages.Deployment.xml
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.WebPages.Razor.xml
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\obj\Debug\03_LowLevelHttpProgramming.csprojResolveAssemblyReference.cache
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\obj\Debug\03_LowLevelHttpProgramming.dll
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\obj\Debug\03_LowLevelHttpProgramming.pdb
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\03_LowLevelHttpProgramming.dll
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\03_LowLevelHttpProgramming.pdb
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\Antlr3.Runtime.dll
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\EntityFramework.dll
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\Microsoft.Web.Infrastructure.dll
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\Newtonsoft.Json.dll
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Net.Http.Formatting.dll
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Helpers.dll
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Http.dll
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Http.WebHost.dll
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Mvc.dll
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Optimization.dll
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Providers.dll
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Razor.dll
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.WebPages.Deployment.dll
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.WebPages.dll
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.WebPages.Razor.dll
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\WebGrease.dll
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\EntityFramework.xml
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\Newtonsoft.Json.xml
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Net.Http.Formatting.xml
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Helpers.xml
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Http.xml
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Http.WebHost.xml
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Mvc.xml
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.Razor.xml
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.WebPages.xml
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.WebPages.Deployment.xml
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\bin\System.Web.WebPages.Razor.xml
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\obj\Debug\03_LowLevelHttpProgramming.csprojResolveAssemblyReference.cache
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\obj\Debug\03_LowLevelHttpProgramming.dll
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\03_LowLevelHttpProgramming\obj\Debug\03_LowLevelHttpProgramming.pdb
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\03_LowLevelHttpProgramming\bin\03_LowLevelHttpProgramming.dll
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\03_LowLevelHttpProgramming\bin\03_LowLevelHttpProgramming.pdb
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\03_LowLevelHttpProgramming\bin\Antlr3.Runtime.dll
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\03_LowLevelHttpProgramming\bin\EntityFramework.dll
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\03_LowLevelHttpProgramming\bin\Microsoft.Web.Infrastructure.dll
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\03_LowLevelHttpProgramming\bin\Newtonsoft.Json.dll
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\03_LowLevelHttpProgramming\bin\System.Net.Http.Formatting.dll
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\03_LowLevelHttpProgramming\bin\System.Web.Helpers.dll
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\03_LowLevelHttpProgramming\bin\System.Web.Http.dll
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\03_LowLevelHttpProgramming\bin\System.Web.Http.WebHost.dll
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\03_LowLevelHttpProgramming\bin\System.Web.Mvc.dll
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\03_LowLevelHttpProgramming\bin\System.Web.Optimization.dll
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\03_LowLevelHttpProgramming\bin\System.Web.Providers.dll
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\03_LowLevelHttpProgramming\bin\System.Web.Razor.dll
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\03_LowLevelHttpProgramming\bin\System.Web.WebPages.Deployment.dll
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\03_LowLevelHttpProgramming\bin\System.Web.WebPages.dll
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\03_LowLevelHttpProgramming\bin\System.Web.WebPages.Razor.dll
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\03_LowLevelHttpProgramming\bin\WebGrease.dll
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\03_LowLevelHttpProgramming\bin\EntityFramework.xml
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\03_LowLevelHttpProgramming\bin\Newtonsoft.Json.xml
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\03_LowLevelHttpProgramming\bin\System.Net.Http.Formatting.xml
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\03_LowLevelHttpProgramming\bin\System.Web.Helpers.xml
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\03_LowLevelHttpProgramming\bin\System.Web.Http.xml
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\03_LowLevelHttpProgramming\bin\System.Web.Http.WebHost.xml
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\03_LowLevelHttpProgramming\bin\System.Web.Mvc.xml
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\03_LowLevelHttpProgramming\bin\System.Web.Razor.xml
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\03_LowLevelHttpProgramming\bin\System.Web.WebPages.xml
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\03_LowLevelHttpProgramming\bin\System.Web.WebPages.Deployment.xml
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\03_LowLevelHttpProgramming\bin\System.Web.WebPages.Razor.xml
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\03_LowLevelHttpProgramming\obj\Debug\03_LowLevelHttpProgramming.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\03_LowLevelHttpProgramming\obj\Debug\03_LowLevelHttpProgramming.dll
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\03_LowLevelHttpProgramming\obj\Debug\03_LowLevelHttpProgramming.pdb

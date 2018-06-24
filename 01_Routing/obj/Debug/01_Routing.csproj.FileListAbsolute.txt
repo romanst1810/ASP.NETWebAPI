@@ -1,0 +1,70 @@
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\bin\01_Routing.dll
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\bin\01_Routing.pdb
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\bin\Microsoft.Web.Infrastructure.dll
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\bin\Newtonsoft.Json.dll
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\bin\System.Net.Http.Formatting.dll
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\bin\System.Web.Http.dll
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\bin\System.Web.Http.WebHost.dll
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\bin\Newtonsoft.Json.xml
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\bin\System.Net.Http.Formatting.xml
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\bin\System.Web.Http.xml
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\bin\System.Web.Http.WebHost.xml
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\obj\Debug\01_Routing.csprojResolveAssemblyReference.cache
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\obj\Debug\01_Routing.dll
+F:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\obj\Debug\01_Routing.pdb
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\bin\01_Routing.dll
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\bin\01_Routing.pdb
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\bin\Microsoft.Web.Infrastructure.dll
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\bin\Newtonsoft.Json.dll
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\bin\System.Net.Http.Formatting.dll
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\bin\System.Web.Http.dll
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\bin\System.Web.Http.WebHost.dll
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\bin\Newtonsoft.Json.xml
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\bin\System.Net.Http.Formatting.xml
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\bin\System.Web.Http.xml
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\bin\System.Web.Http.WebHost.xml
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\obj\Debug\01_Routing.csprojResolveAssemblyReference.cache
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\obj\Debug\01_Routing.dll
+E:\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\obj\Debug\01_Routing.pdb
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\bin\01_Routing.dll
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\bin\01_Routing.pdb
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\bin\Microsoft.Web.Infrastructure.dll
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\bin\Newtonsoft.Json.dll
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\bin\System.Net.Http.Formatting.dll
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\bin\System.Web.Http.dll
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\bin\System.Web.Http.WebHost.dll
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\bin\Newtonsoft.Json.xml
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\bin\System.Net.Http.Formatting.xml
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\bin\System.Web.Http.xml
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\bin\System.Web.Http.WebHost.xml
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\obj\Debug\01_Routing.csprojResolveAssemblyReference.cache
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\obj\Debug\01_Routing.dll
+D:\MVC4\_my\ASP.NET MVC 4 Course\002 - ASP.NET Web API (Часть 1)\Lesson2_Examples\01_Routing\obj\Debug\01_Routing.pdb
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\01_Routing\bin\01_Routing.dll
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\01_Routing\bin\01_Routing.pdb
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\01_Routing\bin\Microsoft.Web.Infrastructure.dll
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\01_Routing\bin\Newtonsoft.Json.dll
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\01_Routing\bin\System.Net.Http.Formatting.dll
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\01_Routing\bin\System.Web.Http.dll
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\01_Routing\bin\System.Web.Http.WebHost.dll
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\01_Routing\bin\Newtonsoft.Json.xml
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\01_Routing\bin\System.Net.Http.Formatting.xml
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\01_Routing\bin\System.Web.Http.xml
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\01_Routing\bin\System.Web.Http.WebHost.xml
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\01_Routing\obj\Debug\01_Routing.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\01_Routing\obj\Debug\01_Routing.dll
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\01_Routing\obj\Debug\01_Routing.pdb
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\001 ASP.NET Web API\01_Routing\bin\01_Routing.dll
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\001 ASP.NET Web API\01_Routing\bin\01_Routing.pdb
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\001 ASP.NET Web API\01_Routing\bin\Microsoft.Web.Infrastructure.dll
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\001 ASP.NET Web API\01_Routing\bin\Newtonsoft.Json.dll
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\001 ASP.NET Web API\01_Routing\bin\System.Net.Http.Formatting.dll
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\001 ASP.NET Web API\01_Routing\bin\System.Web.Http.dll
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\001 ASP.NET Web API\01_Routing\bin\System.Web.Http.WebHost.dll
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\001 ASP.NET Web API\01_Routing\bin\Newtonsoft.Json.xml
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\001 ASP.NET Web API\01_Routing\bin\System.Net.Http.Formatting.xml
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\001 ASP.NET Web API\01_Routing\bin\System.Web.Http.xml
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\001 ASP.NET Web API\01_Routing\bin\System.Web.Http.WebHost.xml
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\001 ASP.NET Web API\01_Routing\obj\Debug\01_Routing.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\001 ASP.NET Web API\01_Routing\obj\Debug\01_Routing.dll
+D:\Lessons\ASP.NET MVC 4\002 WebAPI Part I\001 ASP.NET Web API\01_Routing\obj\Debug\01_Routing.pdb
